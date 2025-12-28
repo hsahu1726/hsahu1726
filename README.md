@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I’m **Harsh Sahu**, a second-year B.Tech student in Electronics and Communication Engineering at NIT Jamshedpur. I’m interested in building scalable web applications and exploring AI/ML for real-world problem solving. I enjoy working with Python and the MERN stack, and I’m currently strengthening my understanding of backend architecture and system design fundamentals.
+Hi, I’m **Harsh Sahu**, B.Tech student in Electronics and Communication Engineering at NIT Jamshedpur. I’m interested in building scalable web applications and exploring AI/ML for real-world problem solving. I enjoy working with Python and the MERN stack, and I’m currently strengthening my understanding of backend architecture and system design fundamentals.
 
 🔎 **Currently exploring:** Scalable web systems, AI/ML, and system design fundamentals  
 ⭐ **Interests:** Python, MERN Stack, AI/ML, Problem Solving
